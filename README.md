@@ -1,6 +1,6 @@
 # Frontend exercise hard 2
 
-![Image of Comeet-cat](https://imgur.com/a/dAhyRlY)
+![Image of Comeet-cat](https://ibb.co/9vJz1bS)
 
 ## Built with 🛠️
 - React
