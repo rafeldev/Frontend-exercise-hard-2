@@ -1,6 +1,7 @@
 # Frontend exercise hard 2
 
-![Image of Comeet-cat](https://ibb.co/9vJz1bS)
+![img del reto](https://subefotos.com/ver/?f5642efd87a271fa974fad0f07521bbbo.png
+)
 
 ## Built with 🛠️
 - React
