@@ -1,6 +1,28 @@
 import React from 'react';
-import '../styles/components/App.styl';
 
-const App = () => <h1>Hello React!</h1>;
+import { Header } from './organisms/Header';
+import { Hero } from './organisms/Hero';
+import { Footer } from './organisms/Footer';
+import Images from './container/Images';
+
+import { TwoColumns } from './container/TwoColumns';
+import { ThreeColums } from './container/ThreeColums';
+
+import { Main } from './styles';
+
+function App() {
+  return (
+    <React.Fragment>
+      <Main>
+        <Header />
+        <Hero />
+        <Images />
+        <TwoColumns />
+        <ThreeColums />
+        <Footer />
+      </Main>
+    </React.Fragment>
+  );
+}
 
 export default App;
