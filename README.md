@@ -1,7 +1,6 @@
 # Frontend exercise hard 2
 
-![img del reto](https://subefotos.com/ver/?f5642efd87a271fa974fad0f07521bbbo.png
-)
+![img del reto](https://thumbs.subefotos.com/f5642efd87a271fa974fad0f07521bbbo.jpg)
 
 ## Built with 🛠️
 - React
