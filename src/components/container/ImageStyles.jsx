@@ -29,7 +29,7 @@ export const Img1 = styled.img`
 `;
 
 export const Img2 = styled.img`
-  max-width: 24%;
+  max-width: 18%;
 `;
 
 export const FaChevronLeft = styled(Icon2)`

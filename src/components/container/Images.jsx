@@ -1,7 +1,7 @@
 import React from 'react';
-import Img01 from '../../img/01.png';
-import Img02 from '../../img/02.png';
-import Img03 from '../../img/03.png';
+import Img01 from '../../img/01.jpg';
+import Img02 from '../../img/022.jpg';
+import Img03 from '../../img/Logo.png';
 
 import { Section, Div, Img1, Img2, FaChevronLeft } from './ImageStyles';
 import { FaChevronRight } from './rightStyles';

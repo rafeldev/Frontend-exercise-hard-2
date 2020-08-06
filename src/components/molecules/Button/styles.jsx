@@ -1,5 +1,17 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
+
 import { FaArrowCircleRight as Icon } from 'react-icons/fa';
+
+import myFontUrl from '../../../LatoWoff/lato-bold-webfont.woff';
+
+export const fontFaces = css`
+  font-face {
+    font-family: 'Lato';
+    src: url(${myFontUrl});
+    font-weight: 900;
+    font-style: normal;
+  }
+`;
 
 export const Buton = styled.button`
   align-self: flex-end;
@@ -15,7 +27,7 @@ export const Buton = styled.button`
 
 export const Span = styled.span`
   display: inline;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato';
   font-weight: 900;
   font-size: 16px;
   color: #0d0d0d;

@@ -8,11 +8,13 @@ import Images from './container/Images';
 import { TwoColumns } from './container/TwoColumns';
 import { ThreeColums } from './container/ThreeColums';
 
+import { GlobalStyle } from '../GlobalStyles';
 import { Main } from './styles';
 
 function App() {
   return (
     <React.Fragment>
+      <GlobalStyle />
       <Main>
         <Header />
         <Hero />
